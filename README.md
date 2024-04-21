@@ -1,10 +1,10 @@
 <img src="./images/banner.png" width="800">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pytopia/machine-learning-101)
-![GitHub repo size](https://img.shields.io/github/repo-size/pytopia/machine-learning-101)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pytopia/machine-learning-101)
-![GitHub Repo stars](https://img.shields.io/github/stars/pytopia/machine-learning-101)
-![GitHub top language](https://img.shields.io/github/languages/top/pytopia/machine-learning-101)
+![GitHub last commit](https://img.shields.io/github/last-commit/pytopia/machine-learning)
+![GitHub repo size](https://img.shields.io/github/repo-size/pytopia/machine-learning)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pytopia/machine-learning)
+![GitHub Repo stars](https://img.shields.io/github/stars/pytopia/machine-learning)
+![GitHub top language](https://img.shields.io/github/languages/top/pytopia/machine-learning)
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.pytopia.ai)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/pytopia_ai)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-red)](https://instagram.com/pytopia.ai)
@@ -56,13 +56,13 @@ To get the most out of this course, you should have:
 - Enthusiasm to learn and explore the exciting field of Machine Learning!
 
 # 📚 Learn with Us!
-We also offer a [course on these contents](https://www.pytopia.ai/courses/machine-learning-101) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group. Enroll now and start learning! Here are some useful links:
+We also offer a [course on these contents](https://www.pytopia.ai/courses/machine-learning) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group. Enroll now and start learning! Here are some useful links:
 
-- [ML 101 Course](https://www.pytopia.ai/courses/machine-learning-101)
+- [Machine Learning Course](https://www.pytopia.ai/courses/machine-learning)
 - [Pytopia Public Telegram Group](https://t.me/pytopia_ai)
 - [Pytopia Website](https://www.pytopia.ai/)
 
-[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/machine-learning-101)
+[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/machine-learning)
 
 # 🚀 Getting Started
 
@@ -70,12 +70,12 @@ To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/machine-learning-fundamentals-course.git
+   git clone https://github.com/pytopia/machine-learning.git
    ```
 
 2. Navigate to the cloned repository:
    ```
-   cd machine-learning-fundamentals-course
+   cd machine-learning
    ```
 
 3. Set up the required dependencies and environment by following the instructions in the `setup.md` file.
