@@ -162,3 +162,5 @@ cython_debug/
 *.DS_Store
 test.ipynb
 *.joblib
+*.pkl
+mlruns/
